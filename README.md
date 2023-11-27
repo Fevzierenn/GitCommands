@@ -7,3 +7,4 @@ test 2 read me dosyasi üzerinde değişiklik
 github üzerinden yazılan kod değişikliği
 
 branch degisikligi
+branch original kısmıdır
